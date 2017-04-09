@@ -1,0 +1,37 @@
+/*!
+ * For Components styling  
+ * Mahesh M
+ */
+table.fixed { table-layout:fixed; width: 50%}
+table.fixed td { overflow: hidden; }
+table.fixed td img { width: 50%;}
+#isa_success, #isa_error {
+    margin: 10px 0px;
+    padding:12px;
+ 
+}
+#isa_success {
+    color: #4F8A10;
+    background-color: #DFF2BF;
+}
+#isa_error {
+    color: #D8000C;
+    background-color: #FFBABA;
+}
+.msg{
+display: none;
+}
+h1	{
+    color: #0a0a0a;
+    font-family: arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 1px;
+}
+label {
+    color: #231d75;
+    font-weight: bold;
+    width: 150px;
+}
+label:after { content: ": " }
