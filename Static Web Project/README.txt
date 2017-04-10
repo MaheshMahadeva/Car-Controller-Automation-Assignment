@@ -29,4 +29,5 @@
 
   3) Open index.html in browser which is present inside "Static Web Project" folder
 
+  4) Give values in the form and see the results 
 
